@@ -50,6 +50,16 @@ div.text {
   background: url(../img/button.png) no-repeat;
   cursor: pointer;
 }
+.movetotop {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  height: 10%;
+  font-weight: 500;
+  color: #ffffff;
+  background-color: #000000;
+  border-color: #181818;
+}
 .small-button:active {
   background: url(../img/button-pressed.png) no-repeat;
   cursor: progress;
